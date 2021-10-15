@@ -1,6 +1,7 @@
 # Chapter 1. Reliable, Scalable, and Maintainable Applications
 
 **Database**: Used to store data
+
 **Cache**: Used to store result of an expensive operation
 
 **Search Index**: Allows users to search and filter data
